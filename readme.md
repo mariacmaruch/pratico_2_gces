@@ -1,6 +1,2 @@
-carnaval
-alterei linha 2
 Gerência de Configuração e Evolução de Software
-456
-789
-101
+Trabalho Prático 16/02/2023
