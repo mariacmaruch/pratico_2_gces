@@ -286,6 +286,7 @@ public class QuickSortImpl<E> extends Application implements Comparator<E>  {
           /*  inputHolder = new Scanner(fileChooser.showOpenDialog(stage)); //this line will selet the file from the user system
             BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(inputFile)));
             */
+            
         stage.setMinWidth(101);
         stage.setMinHeight(100);
 
